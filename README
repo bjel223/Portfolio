@@ -1,4 +1,4 @@
-This github is a collection of various programs I have made. As of now, all of the programs featured here were submissions for school assignments.
+This github is a collection of various programs I, Benjamin Ellis, have made. As of now, all of the programs featured here were submissions for school assignments.
 
 C++ClientServer contains C++ client and server programs which can connect and send text messages to eachother through a chat feature. There is a readme specifically
 for these programs in the folder with them. This program was written in spring 2019.
