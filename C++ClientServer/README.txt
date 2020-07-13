@@ -8,7 +8,3 @@
 -Ending the client connection will not close the server.
 -This implementation of the client/server utilizes sockets via winsock. This is because sys/socket.h seems
 to be a unix based thing and I only have windows machines.
-
--I feel I should mention that I did not feel as though this course prepared me for this activity much.
-Content covered in class had very limited if any actualy code implementation and labs were pretty much unrelated
-to this assignment.
