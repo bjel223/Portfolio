@@ -1,0 +1,23 @@
+This github is a collection of various programs I have made. As of now, all of the programs featured here were submissions for school assignments.
+
+C++ClientServer contains C++ client and server programs which can connect and send text messages to eachother through a chat feature. There is a readme specifically
+for these programs in the folder with them. This program was written in spring 2019.
+
+Minesweeper contains the files for a version of minesweeper I made for an intro to computer graphics course. The necessary Java files are located in src and the jpg icons used
+are located in src/res. This program was made with Java using Java Swing for GUI functionality and was written in fall 2018.
+
+RSAEncryptionAndDecryption contains EllisHW7.py which is an implementation of RSA encryption. The program initializes an appropriate key, then encrypts a message file, and finally
+decrypts the cipher text file produced from encryption. This program was made in python as the language allows for easier handling of the large integer values that are necessary
+for secure encryption. This program was written in spring 2020.
+
+EllisVigenere.cpp is a program which can break viegenere ciphers with keylengths of 6 or less. It does this by finding the most probable keylength and then using frequency analysis
+to find the most probable key. This program was written in spring 2020.
+
+eigensearch.m will return the eigen-values of a given matrix 'A'. This program was made in Octave for a numerical solutions course in spring 2019.
+
+ellisBBS.cpp is a program which generates a psuedo random sequence of bits and calculates the frequencies of zeroes and ones, and subsequences of length 4, to ensure its
+randomness. This is another program written for a cryptology course in spring 2020.
+
+In choosing which programs to include in this portfolio, I decided to opt out of including programs which were not primarily written and developed by me. This is because I view
+the purpose of this github as show my personal competency with programming in various forms. I do understand that the ability to work with, and alter, existing programs is 
+obviously important as well. However, highlighting my abilities to work cooperatively with others and to work with existing projects was not the goal of this repository.
